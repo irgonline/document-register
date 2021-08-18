@@ -74,7 +74,7 @@
       - Attributes (Han) - <a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg56/IRGN2483HanCharacters-ws2021.xlsx">File</a> [xlsx]<br>
       - Attributes (Zhuang) - <a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg56/IRGN2483Zhuangcharacters-ws2021.xlsx">File</a> [xlsx]<br>
       - Evidences (Han) - <a href="https://drive.google.com/file/d/1q-5ZeuVJjqojGU0sBHlIM3ijPYrNFjPQ/view?usp=sharing">Google Drive</a> / <a href="https://share.weiyun.com/kxIxMT95">Weiyun</a><br>
-      - Evidences (Zhuang) - <a href="https://drive.google.com/file/d/12kdE_rHGiSSi_Gk24nKJMX_MGrjh1ah8/view?usp=sharing">Google Drive</a> / <a href="https://share.weiyun.com/JmIpt8tk">Weiyun</a>)
+      - Evidences (Zhuang) - <a href="https://drive.google.com/file/d/12kdE_rHGiSSi_Gk24nKJMX_MGrjh1ah8/view?usp=sharing">Google Drive</a> / <a href="https://share.weiyun.com/JmIpt8tk">Weiyun</a>
     </td>
     <td>China</td>
     <td>2021.04.12</td>
