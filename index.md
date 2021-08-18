@@ -125,5 +125,15 @@
     <td>UK</td>
     <td>2021.04.12</td>
   </tr>
+  <tr>
+    <td>IRGN2488</td>
+    <td>
+      <b>UTC submission to IRG Working Set 2021</b> (2021.05.08)<br>
+      - Submission Form (w/ Attributes & Fonts) - <a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg56/IRGN2488UTC153.pdf">File</a> [pdf]<br>
+      - Evidences - <a href="https://drive.google.com/file/d/1STm-vcxfaT791Os2e3zqNidbCXaZEfol/view?usp=sharing">Google Drive</a> / <a href="https://share.weiyun.com/tqmYGUZU">Weiyun</a>
+    </td>
+    <td>UTC</td>
+    <td>2021.04.12</td>
+  </tr>
 </tbody>
 </table>
