@@ -165,5 +165,11 @@
     <td>Ken Lunde and John Jenkins</td>
     <td>2021.08.11</td>
   </tr>
+  <tr>
+    <td>IRGN2493</td>
+    <td><b><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2493_1stCallIRG57.pdf">1st Call for IRG #57</a></b> (2021.08.12) [pdf]</td>
+    <td>IRG Convenor</td>
+    <td>2021.08.12</td>
+  </tr>
 </tbody>
 </table>
