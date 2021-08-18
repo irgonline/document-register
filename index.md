@@ -153,5 +153,11 @@
     <td>Vietnam</td>
     <td>2021.04.13</td>
   </tr>
+  <tr>
+    <td>IRGN2491</td>
+    <td><b><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg56/IRGN2491MisUnified.doc">Collection of Disunified characters since IRG#45</a></b> (2021.04.14) [doc]</td>
+    <td>IRG Chief Editor</td>
+    <td>2021.04.14</td>
+  </tr>
 </tbody>
 </table>
