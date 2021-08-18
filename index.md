@@ -79,5 +79,17 @@
     <td>China</td>
     <td>2021.04.12</td>
   </tr>
+  <tr>
+    <td>IRGN2484</td>
+    <td>
+      <b>ROK submission to IRG Working Set 2021</b> (2021.05.08)<br>
+      - Document List - <a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg56/IRGN2484ROK201ListDocs.pdf">File</a> [pdf]<br>
+      - Summary Form - <a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg56/IRGN2484ROK203Sumry_form.pdf">File</a> [pdf]<br>
+      - Attributes - <a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg56/IRGN2484ROK202Data.xlsx">File</a> [xlsx]<br>
+      - Evidences - <a href="https://drive.google.com/file/d/1Qhygn0uwHh3bEJHlTZ4A547LmUhHU8nv/view?usp=sharing">Google Drive</a> / <a href="https://share.weiyun.com/nN0f7y6L">Weiyun</a>
+    </td>
+    <td>ROK</td>
+    <td>2021.04.12</td>
+  </tr>
 </tbody>
 </table>
