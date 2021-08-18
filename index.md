@@ -24,12 +24,12 @@
   </tr>
   <tr>
     <td>IRGN2477</td>
-    <td><b><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg56/irg56/IRGN2477UCVGhostComponent.docx">UCV on Ghost Component</a></b> [docx] (2021.03.17)</td>
+    <td><b><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg56/IRGN2477UCVGhostComponent.docx">UCV on Ghost Component</a></b> [docx] (2021.03.17)</td>
     <td>Tao Yang</td>
     <td>2021.03.17</td>
   </tr>
   <tr>
-		<td>IRGN2478</td>
+    <td>IRGN2478</td>
     <td>
       <b>IRG Working Set 2021 v1.0</b><br>
       - Attributes (2021.07.26) - <a href="https://drive.google.com/file/d/1Y-nQwMm_6jHjqWFOCxzOHN7Sptgxo2Ib/view?usp=sharing">Google Drive</a> / <a href="https://share.weiyun.com/GQRfrJmA">Weiyun</a> [pdf]<br>
@@ -37,6 +37,12 @@
     </td>
     <td>IRG</td>
     <td>2021.03.17</td>
-		</tr>
+  </tr>
+  <tr>
+    <td>IRGN2479</td>
+    <td><b><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg56/IRGN2479KP0-E5A9.pdf">UCS mapping for KP0-E5A9</a></b> (2021.03.17)</td>
+    <td>Jaemin Chung</td>
+    <td>2021.03.17</td>
+  </tr>
 </tbody>
 </table>
