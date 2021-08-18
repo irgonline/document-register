@@ -147,5 +147,11 @@
     <td>Vietnam</td>
     <td>2021.04.12</td>
   </tr>
+  <tr>
+    <td>IRGN2490</td>
+    <td><b><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg56/IRGN2490VSourceChanges.pdf">Proposal to modify source references of V-Source ideographs</a></b> (2021.04.27) [pdf]</td>
+    <td>Vietnam</td>
+    <td>2021.04.13</td>
+  </tr>
 </tbody>
 </table>
