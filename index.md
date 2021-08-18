@@ -53,6 +53,18 @@
     </td>
     <td>IRG</td>
     <td>2021.03.18</td>
-    </tr>
+  </tr>
+  <tr>
+    <td>IRGN2481</td>
+    <td>Proposal to add New UCVs</td>
+    <td>Henry Chan</td>
+    <td>2021.03.20</td>
+  </tr>
+  <tr>
+    <td>IRGN2482</td>
+    <td>Proposal to improve IRG process</td>
+    <td>Wang Xieyang</td>
+    <td>2021.03.20</td>
+  </tr>
 </tbody>
 </table>
