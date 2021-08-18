@@ -28,5 +28,15 @@
     <td>Tao Yang</td>
     <td>2021.03.17</td>
   </tr>
+  <tr>
+		<td>IRGN2478</td>
+    <td>
+      <b>IRG Working Set 2021 v1.0</b><br>
+      - Attributes (2021.07.26) - <a href="https://drive.google.com/file/d/1Y-nQwMm_6jHjqWFOCxzOHN7Sptgxo2Ib/view?usp=sharing">Google Drive</a> / <a href="https://share.weiyun.com/GQRfrJmA">Weiyun</a> [pdf]<br>
+      - Code Chart (2021.08.11) - <a href="https://drive.google.com/file/d/1_MuNPUMIYZ0ZIyAkKz4aaZyv46h1RHQC/view?usp=sharing">Google Drive</a> / <a href="https://share.weiyun.com/BLxujNLH">Weiyun</a> [pdf]
+    </td>
+    <td>IRG</td>
+    <td>2021.03.17</td>
+		</tr>
 </tbody>
 </table>
