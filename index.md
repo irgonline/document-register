@@ -159,5 +159,11 @@
     <td>IRG Chief Editor</td>
     <td>2021.04.14</td>
   </tr>
+  <tr>
+    <td>IRGN2492</td>
+    <td><b><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2492.pdf">Preliminary proposal to add a new provisional kIDS property (Unihan)</a></b> (2021.08.12) [pdf]</td>
+    <td>Ken Lunde and John Jenkins</td>
+    <td>2021.08.11</td>
+  </tr>
 </tbody>
 </table>
