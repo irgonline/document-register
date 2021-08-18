@@ -44,5 +44,15 @@
     <td>Jaemin Chung</td>
     <td>2021.03.17</td>
   </tr>
+  <tr>
+    <td>IRGN2480</td>
+    <td>
+      <b>IRG Working Set 2017 v6.1</b> (2021.08.18)<br>
+      - <a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg56/IRGN2480WS2017v6.1-attributes.xlsx">Attributes</a> [xlsx]<br>
+      - Code Chart - <a href="https://drive.google.com/file/d/1DW0KnfVPHPv8cO3VfHwd3Ar2qya9z9Fk/view?usp=sharing">Google Drive</a> / <a href="https://share.weiyun.com/1pXiqJc1">Weiyun</a> [pdf]
+    </td>
+    <td>IRG</td>
+    <td>2021.03.18</td>
+    </tr>
 </tbody>
 </table>
