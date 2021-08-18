@@ -171,5 +171,11 @@
     <td>IRG Convenor</td>
     <td>2021.08.12</td>
   </tr>
+  <tr>
+    <td>IRGN2494</td>
+    <td><b><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2494Participants.docx">IRGN2451 IRG Participant list</a></b> from previous meeting [docx]</td>
+    <td>IRG</td>
+    <td>2021.08.12</td>
+  </tr>
 </tbody>
 </table>
