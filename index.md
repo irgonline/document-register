@@ -91,5 +91,17 @@
     <td>ROK</td>
     <td>2021.04.12</td>
   </tr>
+  <tr>
+    <td>IRGN2485</td>
+    <td>
+      <b>SAT submission to IRG Working Set 2021</b> (2021.05.09)<br>
+      - Submission Form - <a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg56/IRGN2485_SAT_2021_sub_proposal.pdf">File</a> [pdf]<br>
+      - Attributes - <a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg56/IRGN2485_SAT_2021_sub_attributes.xlsx">File</a> [xlsx]<br>
+      - Evidences - <a href="https://drive.google.com/file/d/1miC9u7NK6BtdcgyHvLW9hlKJdP4flz0G/view?usp=sharing">Part 1</a>, <a href="https://drive.google.com/file/d/1E-RFPfQTYp1ARQPaiUI4QmhzFRvoO32P/view?usp=sharing">Part 2</a>, <a href="https://drive.google.com/file/d/1y2x0TH8ftrunytQ4wXlQQRU3jARbBZRH/view?usp=sharing">Part 3</a>, <a href="https://drive.google.com/file/d/1VkQEbVOCY7M2mR2fXS5pe5ueX_u6wq7n/view?usp=sharing">Part 4</a> (Google Drive)<br>
+      - Evidences - <a href="https://share.weiyun.com/y3rPcRi0">Part 1</a>, <a href="https://share.weiyun.com/lMPAOKAY">Part 2</a>, <a href="https://share.weiyun.com/XQaCiFeQ">Part 3</a>, <a href="https://share.weiyun.com/1UzGK4ow">Part 4</a> (Weiyun)
+    </td>
+    <td>SAT</td>
+    <td>2021.04.12</td>
+  </tr>
 </tbody>
 </table>
