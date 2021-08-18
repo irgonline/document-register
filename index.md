@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>IRGN2479</td>
-    <td><b><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg56/IRGN2479KP0-E5A9.pdf">UCS mapping for KP0-E5A9</a></b> (2021.03.17)</td>
+    <td><b><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg56/IRGN2479KP0-E5A9.pdf">UCS mapping for KP0-E5A9</a></b> (2021.03.17) [pdf]</td>
     <td>Jaemin Chung</td>
     <td>2021.03.17</td>
   </tr>
