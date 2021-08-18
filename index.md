@@ -22,5 +22,11 @@
     <td>IWDS editor</td>
     <td>2021.03.17</td>
   </tr>
+  <tr>
+    <td>IRGN2477</td>
+    <td><b><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg56/irg56/IRGN2477UCVGhostComponent.docx">UCV on Ghost Component</a></b> - docx (2021.03.17)</td>
+    <td>Tao Yang</td>
+    <td>2021.03.17</td>
+  </tr>
 </tbody>
 </table>
