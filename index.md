@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td>IRGN2506</td>
-    <td>IRG#57 Editorial Report</td>
+    <td>IRG #57 Editorial Report</td>
     <td>IRG</td>
     <td>2021.08.12</td>
   </tr>
