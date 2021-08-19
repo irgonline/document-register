@@ -262,7 +262,7 @@
   </tr>
   <tr>
     <td>IRGN2509</td>
-    <td><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2509.pdf">Disunification Request for U+5F50 (2021.08.15) [pdf]</td>
+    <td><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2509.pdf">Disunification Request for U+5F50</a> (2021.08.15) [pdf]</td>
     <td>Alexander Zapryagaev</td>
     <td>2021.08.14</td>
   </tr>
