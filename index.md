@@ -183,5 +183,100 @@
     <td>IRG</td>
     <td>2021.08.12</td>
   </tr>
+  <tr>
+    <td>IRGN2496</td>
+    <td>China Activty Report</td>
+    <td>China</td>
+    <td>2021.08.12</td>
+  </tr>
+  <tr>
+    <td>IRGN2497</td>
+    <td>HKSARG Activty Report</td>
+    <td>HKSARG</td>
+    <td>2021.08.12</td>
+  </tr>
+  <tr>
+    <td>IRGN2498</td>
+    <td>MSARG Activity Report</td>
+    <td>MSARG</td>
+    <td>2021.08.12</td>
+  </tr><tr>
+    <td>IRGN2499</td>
+    <td>ROK Activity Report</td>
+    <td>ROK</td>
+    <td>2021.08.12</td>
+  </tr>
+	<tr>
+    <td>IRGN2500</td>
+    <td>IRG#57 Recommendations</td>
+    <td>IRG</td>
+    <td>2021.08.12</td>
+  </tr>
+		<tr>
+    <td>IRGN2501</td>
+    <td>SAT Activity Report</td>
+    <td>SAT</td>
+    <td>2021.08.12</td>
+  </tr>
+  <tr>
+    <td>IRGN2502</td>
+    <td>TCA Activity Report</td>
+    <td>TCA</td>
+    <td>2021.08.12</td>
+  </tr>
+  <tr>
+    <td>IRGN2503</td>
+    <td>UK Activity Report</td>
+    <td>UK</td>
+    <td>2021.08.12</td>
+  </tr>
+  <tr>
+    <td>IRGN2504</td>
+    <td><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2504_UnicodeActivityReport.pdf">USA/Unicode Activity Report</a> (2021.08.17) [pdf]</td>
+    <td>USA/Unicode</td>
+    <td>2021.08.12</td>
+  </tr>
+  <tr>
+    <td>IRGN2505</td>
+    <td>Vietnam Activity Report</td>
+    <td>Vietnam</td>
+    <td>2021.08.12</td>
+  </tr>
+  <tr>
+    <td>IRGN2506</td>
+    <td>IRG#57 Editorial Report</td>
+    <td>IRG</td>
+    <td>2021.08.12</td>
+  </tr>
+  <tr>
+    <td>IRGN2507</td>
+    <td>HKSCS Horizontal extension request (tentative title)</td>
+    <td>HKSARG</td>
+    <td>2021.08.13</td>
+  </tr>
+  <tr>
+    <td>IRGN2508</td>
+    <td>HKSCS minor glyph change request (tentative title)</td>
+    <td>HKSARG</td>
+    <td>2021.08.13</td>
+  </tr>
+  <tr>
+    <td>IRGN2509</td>
+    <td><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2509.pdf">Disunification Request for U+5F50 (2021.08.15) [pdf]</td>
+    <td>Alexander Zapryagaev</td>
+    <td>2021.08.14</td>
+  </tr>
+  <tr>
+    <td>IRGN2510</td>
+    <td><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2510_Disunify-3-chars.pdf">Disunification request for 3 characters</a> (2021.08.15) [pdf]</td>
+    <td>Kushim Jiang</td>
+    <td>2021.08.15</td>
+  </tr>
+  <tr>
+    <td>IRGN2511</td>
+    <td>Glyph issue for U+30759</td>
+    <td>Huang Junliang</td>
+    <td>2021.08.16</td>
+  </tr>
 </tbody>
 </table>
