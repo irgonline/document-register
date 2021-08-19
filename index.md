@@ -179,7 +179,7 @@
   </tr>
   <tr>
     <td>IRGN2495</td>
-    <td><b><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2495EmailList.txt">IRG email list</a></b> draft</td>
+    <td><b><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2495EmailList.txt">IRG email list</a></b> draft [txt]</td>
     <td>IRG</td>
     <td>2021.08.12</td>
   </tr>
