@@ -283,5 +283,15 @@
     <td>Huang Junliang</td>
     <td>2021.08.16</td>
   </tr>
+  <tr>
+    <td>IRGN2512</td>
+    <td>
+        <b><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2512ROK51_chars.pdf">A preliminary proposal requesting a Horizontal Extension of 51 Hanja chars (once submitted for ExtF/G/H)</a></b> (2021.09.02) [pdf]<br>
+        - <a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2512Excel51_chars.xlsx">Data File</a> [.xlsx]<br>
+        - <a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2512Mapping51_chars.txt">Mapping Table</a> [.txt]
+    </td>
+    <td>ROK</td>
+    <td>2021.08.16</td>
+  </tr>
 </tbody>
 </table>
