@@ -250,7 +250,11 @@
   </tr>
   <tr>
     <td>IRGN2507</td>
-    <td>HKSCS Horizontal extension request (tentative title)</td>
+    <td>
+      <b><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2507-HKSAR-Horizontal-Extension-20210825.pdf">Request for Horizontal Extension in the H-column of the ISO/IEC 10646 Standard</a></b> (2021.08.25) [pdf]<br>
+      - <a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2507U2BB37_HD-2BB37.bmp">U+2BB37 - 128x128 Character Image</a> [bmp]<br>
+      - <a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2507U2D25D_HD-2D25D.bmp">U+2D25D - 128x128 Character Image</a> [bmp]
+    </td>
     <td>HKSARG</td>
     <td>2021.08.13</td>
   </tr>
