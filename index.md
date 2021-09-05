@@ -191,7 +191,7 @@
   </tr>
   <tr>
     <td>IRGN2497</td>
-    <td>HKSARG Activty Report</td>
+    <td><b><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2497-HKSAR-ActivityReport.pdf">HKSARG Activity Report</a></b> (2021.09.02) [pdf]</td>
     <td>HKSARG</td>
     <td>2021.08.12</td>
   </tr>
