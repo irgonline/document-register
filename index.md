@@ -268,7 +268,10 @@
   </tr>
   <tr>
     <td>IRGN2510</td>
-    <td><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2510_Disunify-3-chars.pdf">Disunification request for 3 characters</a> (2021.08.15) [pdf]</td>
+    <td>
+      <b><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2510_Disunify-3-chars.pdf">Disunification request for 3 characters</a></b> (2021.08.15) [pdf]<br><br>
+      → <b><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2510FeedbackWangXieyang.pdf">Feedback by Wang Xieyang</a></b> (2021.09.05) [pdf]
+    </td>
     <td>Kushim Jiang</td>
     <td>2021.08.15</td>
   </tr>
