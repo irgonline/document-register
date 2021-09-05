@@ -256,7 +256,10 @@
   </tr>
   <tr>
     <td>IRGN2508</td>
-    <td>HKSCS minor glyph change request (tentative title)</td>
+    <td>
+      <b><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2508-Glyph-Change-Request-20210825.pdf">Request for Glyph Change in the H-column of the ISO/IEC 10646 Standard</a></b> (2021.08.25) [pdf]<br>
+      - <a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2508U22ACF_H-8ACB.bmp">U+22ACF - 128x128 Character Image</a> [bmp]
+    </td>
     <td>HKSARG</td>
     <td>2021.08.13</td>
   </tr>
