@@ -277,7 +277,9 @@
   </tr>
   <tr>
     <td>IRGN2511</td>
-    <td>Glyph issue for U+30759</td>
+    <td>
+      <b><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2511U30759.pdf">Glyph issue for U+30759</a></b> (2021.08.24) [pdf]
+    </td>
     <td>Huang Junliang</td>
     <td>2021.08.16</td>
   </tr>
