@@ -206,13 +206,13 @@
     <td>ROK</td>
     <td>2021.08.12</td>
   </tr>
-	<tr>
+  <tr>
     <td>IRGN2500</td>
     <td>IRG#57 Recommendations</td>
     <td>IRG</td>
     <td>2021.08.12</td>
   </tr>
-		<tr>
+  <tr>
     <td>IRGN2501</td>
     <td>SAT Activity Report</td>
     <td>SAT</td>
