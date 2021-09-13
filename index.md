@@ -215,7 +215,7 @@
   </tr>
   <tr>
     <td>IRGN2501</td>
-    <td>SAT Activity Report</td>
+    <td><b><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2501_SAT_AR.pdf">SAT Activity Report</a></b> (2021.09.10) [pdf]</td>
     <td>SAT</td>
     <td>2021.08.12</td>
   </tr>
