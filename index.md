@@ -221,7 +221,7 @@
   </tr>
   <tr>
     <td>IRGN2502</td>
-    <td>TCA Activity Report</td>
+    <td><b><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2502_TCA_ActivityReport.pdf">TCA Activity Report</a></b> (2021.09.10) [pdf]</td>
     <td>TCA</td>
     <td>2021.08.12</td>
   </tr>
