@@ -200,9 +200,10 @@
     <td><b><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2498_MacaoActivityReportIRG57.pdf">MSARG Activity Report</a></b> (2021.09.10) [pdf]</td>
     <td>MSARG</td>
     <td>2021.08.12</td>
-  </tr><tr>
+  </tr>
+  <tr>
     <td>IRGN2499</td>
-    <td>ROK Activity Report</td>
+    <td><b><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2499_ROK%20Activity%20Report.pdf">ROK Activity Report</a></b> (2021.09.08) [pdf]</td>
     <td>ROK</td>
     <td>2021.08.12</td>
   </tr>
