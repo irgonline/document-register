@@ -233,7 +233,7 @@
   </tr>
   <tr>
     <td>IRGN2504</td>
-    <td><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2504_UnicodeActivityReport.pdf">USA/Unicode Activity Report</a> (2021.08.17) [pdf]</td>
+    <td><b><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2504_UnicodeActivityReport.pdf">USA/Unicode Activity Report</a></b> (2021.08.17) [pdf]</td>
     <td>USA/Unicode</td>
     <td>2021.08.12</td>
   </tr>
