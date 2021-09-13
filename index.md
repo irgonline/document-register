@@ -227,7 +227,7 @@
   </tr>
   <tr>
     <td>IRGN2503</td>
-    <td>UK Activity Report</td>
+    <td><b><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2503_UK_ActivityReport.pdf">UK Activity Report</a></b> (2021.09.11) [pdf]</td>
     <td>UK</td>
     <td>2021.08.12</td>
   </tr>
