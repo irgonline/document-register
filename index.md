@@ -185,7 +185,7 @@
   </tr>
   <tr>
     <td>IRGN2496</td>
-    <td>China Activty Report</td>
+    <td><b><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2496ChinaActivityReportIRG57.pdf">China Activty Report</a></b> (2021.09.11) [pdf]</td>
     <td>China</td>
     <td>2021.08.12</td>
   </tr>
