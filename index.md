@@ -239,7 +239,7 @@
   </tr>
   <tr>
     <td>IRGN2505</td>
-    <td>Vietnam Activity Report</td>
+    <td><b><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2505-Vietnam.pdf">Vietnam Activity Report</a></b> (2021.09.09) [pdf]</td>
     <td>Vietnam</td>
     <td>2021.08.12</td>
   </tr>
