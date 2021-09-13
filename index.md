@@ -197,7 +197,7 @@
   </tr>
   <tr>
     <td>IRGN2498</td>
-    <td>MSARG Activity Report</td>
+    <td><b><a href="https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg57/IRGN2498_MacaoActivityReportIRG57.pdf">MSARG Activity Report</a></b> (2021.09.10) [pdf]</td>
     <td>MSARG</td>
     <td>2021.08.12</td>
   </tr><tr>
